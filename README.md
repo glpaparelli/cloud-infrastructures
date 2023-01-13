@@ -2,7 +2,7 @@
 
 ### This folder is an [Obsidian](https://obsidian.md/) Vault
 
-Material related to the [ICT Infrastructures](http://compass2.di.unipi.it/didattica/wif18/share/corsi/corso.asp?id=4618&cds=wif18&anno=2017)) 
+Material related to the [ICT Infrastructures](http://compass2.di.unipi.it/didattica/wif18/share/corsi/corso.asp?id=4618&cds=wif18&anno=2017)
 course of the University of Pisa.
 
 - **notes:** my final notes and summaries
