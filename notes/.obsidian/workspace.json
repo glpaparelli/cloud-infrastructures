@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "5943945111e0cec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f9ec3808d141ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8c2e9d57c455b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7756e8c5ebc87c3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a257b25e43225ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f1a80c8405ff95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828467dce9a92ad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "187bc4485d7a3174",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "208c728d5f15c4b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2ed2542e30ea5b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2335f202cd946d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320ae0b82239e609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80ac803595f5651e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5693c18e83ac1cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "847113d6a08e993f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "828467dce9a92ad3",
+  "lastOpenFiles": [
+    "Intro to Cloud Computing.md",
+    "ICT Infrastructure.md",
+    "The Orchestration Layer.md",
+    "The Cross-Layer Function - Service Management.md",
+    "The Cross-Layer Function - Security.md",
+    "The Cross-Layer Function - Buisness Continuity.md",
+    "Random Bits of Wisdom.md",
+    "The Physical Layer.md",
+    "images/Pasted image 20230109170035.png",
+    "images/Pasted image 20230109165909.png"
+  ]
+}
