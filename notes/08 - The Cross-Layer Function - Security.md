@@ -1,4 +1,4 @@
-Security is one of the most complex and vast aspect in computer science and in cloud computing. Too big to be trated in this class. 
+Security is one of the most complex and vast aspect in computer science and in cloud computing. Too big to be treated in this class. 
 The following are just hints and basic terminology.
 Security is related to SLA: if you have a breach it means that you did not protect the data, hence you are liable.
 
@@ -11,24 +11,24 @@ Security is related to SLA: if you have a breach it means that you did not prote
 **Remember that a system is secure as much is secure the more unsecure element if the system.** 
 
 **Definition: Information Security** 
-A terrm that includes a set of practices that protect information and information systems from unauthorized access, use, information disclosure, disruption, modification or estruction. 
+A term that includes a set of practices that protect information and information systems from unauthorized access, use, information disclosure, disruption, modification or destruction. 
 
 The goal of information security is to provide **confidentiality**, **integrity**, and **availability**
 
-Security mechanisms ensure right users have access to right resources at the right time. Auditng enables assessing effectivness of the security mechanism.
+Security mechanisms ensure right users have access to right resources at the right time. Auditing enables assessing effectiveness of the security mechanism.
 
 **Trusted Computing Base**
 A set of all those components that are critical to the security of the cloud infrastructure and that you trust.
 It defines boundary for security-critical and non critical parts of a systems. 
-Vulnerabilities in the TCB migh jeopardize security of the entire system. 
+Vulnerabilities in the TCB might jeopardize security of the entire system. 
 
-**Defense-in-Depth**
-A strategy in which multiple layers of defense are deployed throughout the infrastructure to help mitigate the risk of security threats in case one layer of the defense is compromised. 
+**Defence-in-Depth**
+A strategy in which multiple layers of defence are deployed throughout the infrastructure to help mitigate the risk of security threats in case one layer of the defence is compromised. 
 It is also known as a layered approach to security and it provides service providers additional time to detect and respond to an attack. 
 
 **Secure Multi-Tenancy**
 Requires mechanism that prevent a tenant or its process from affecting another tenant's information/process.
-Providers are resoponsible for ensuring secure multi-tenancy. 
+Providers are responsible for ensuring secure multi-tenancy. 
 
 **Velocity-of-Attack**
 Refers to a situation where an existing security threat in a cloud may spread rapidly and have large impact. 

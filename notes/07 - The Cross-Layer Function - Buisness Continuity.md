@@ -1,12 +1,11 @@
-**definition:** Buisness Continuity entails preparing for, responding to and recovering from service outage that adversely affects buisness operations. 
+**Business Continuity** entails preparing for, responding to and recovering from service outage that adversely affects business operations. 
 
-**BC enables continuos availability of cloud services in the event of failure and helps to meet required service level.**
-BC involves various proactive and reactive measures. Disaster recovery is a part of BC, which coordinates the process of restoring infrastructure, including data (required to support ongoing cloud services, after a disaster occurs)
+BC enables continuous availability of cloud services in the event of failure and helps to meet required service level. It involves various proactive and reactive measures. Disaster recovery is a part of BC, which coordinates the process of restoring infrastructure, including data (required to support ongoing cloud services, after a disaster occurs).
 
 ## Cloud Service Availability
-**Cloud Service Availability refers to the ability of a cloud service to perform its agreed functions according to buisness requirements and customer expecations during its specified time of operation.** 
+**Cloud Service Availability** refers to the ability of a cloud service to perform its agreed functions according to business requirements and customer expectations during its specified time of operation.
 
-**Service availability** is based on the agreed service time and the downtime, where the agreed service time is the period where the service is supposted to be available
+**Service availability** is based on the agreed service time and the downtime, where the agreed service time is the period where the service is supposed to be available
 $$
  \text{Service Availabilty (\%) =} \,\, \frac{\text{Agreed Service Time - Downtime}}{\text{Agreed Service Time}}
 $$
@@ -59,7 +58,7 @@ Single points of failure may occur at:
 Hypervisor cluster is a common clustering implementation in cloud environment
 
 **Hypervisor Cluster**
-Multiple hypervisors running on different systems are clustered. It provides continuos availability of services running on VMs even if a physical compute system or a hypervisor fails. 
+Multiple hypervisors running on different systems are clustered. It provides continuous availability of services running on VMs even if a physical compute system or a hypervisor fails. 
 Typically a live instance (i.e.m a secondary VM) of a primary VM is created on another compute system
 ![[hypervisor-cluster.jpg]]
 

@@ -1,5 +1,5 @@
 **Cloud Service Management**
-All the service-related functions that are necessary for the management and operation of those services required by or proposded to cloud consumers, 
+All the service-related functions that are necessary for the management and operation of those services required by or proposed to cloud consumers, 
 
 - the management is performed by administrators of service provider's organization
 - linked to the cloud service requirements and SLA
@@ -7,7 +7,6 @@ All the service-related functions that are necessary for the management and oper
 
 ### Traditional IT Management vs Cloud Service Management
 ![[it-management-vs-cloud-management.png|700]]
-
 
 ## Service Management Functions
 - **service portfolio management:** defines the suite of service offerings that aligns to the provider's strategic buisness goals
